@@ -1,0 +1,2 @@
+# SOC-Analytics-Project
+SOC ANALYTICS &amp; INCIDENT DETECTION
