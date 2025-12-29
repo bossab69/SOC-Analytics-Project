@@ -1,0 +1,20 @@
+SOC INCIDENT REPORT
+
+Incident Type: Brute Force & Port Scanning Activity
+Severity: Medium
+
+Summary:
+Suspicious activity was detected involving multiple failed login attempts and abnormal port scanning behavior from an external IP address.
+
+Findings:
+- Repeated failed SSH login attempts
+- Nmap-style port scanning detected
+- Unusual traffic volume observed
+
+Response:
+- Source IP blocked
+- Logs preserved for investigation
+
+Recommendation:
+- Enable account lockout policies
+- Deploy SIEM for centralized monitoring
