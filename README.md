@@ -84,23 +84,12 @@ Suspicious DNS queries and abnormal traffic volume
 
 
 
----
-
-Deliverables
-
-Incident Detection Report (PDF)
-
-Log Analysis Notes
-
-Python script for basic log parsing
-
-Screenshots of Wireshark analysis
 
 
 
 ---
 
-Skills Demonstrated
+Skills
 
 SOC Monitoring & Alert Analysis
 
